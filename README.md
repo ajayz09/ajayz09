@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate on Vue
 - 💬 Ask me about Machine Learning
 
- [website][🕸] **|**
- [instagram][📷] **|**
- [linkedin][👔] 
+🕸 [website][Website] **|**
+📷 [instagram][Instagram] **|**
+👔 [linkedin][LinkedIn] 
 
 [website]: https://ajayz09.github.io/
 [instagram]: https://www.instagram.com/_ajaymohan/
